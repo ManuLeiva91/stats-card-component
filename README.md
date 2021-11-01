@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/ManuLeiva91/stats-card-component.git)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://manuleiva91.github.io/stats-card-component/)
 
 ## My process
 
